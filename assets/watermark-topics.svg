@@ -1,0 +1,72 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    
+    <symbol id="w-brain" viewBox="0 0 28 28">
+      <path d="M11 5.5a3 3 0 0 0-3 3v1.2a3 3 0 0 0-2 2.8v1a3 3 0 0 0 2 2.8v1.4a3 3 0 0 0 3 3h.5v2a2 2 0 0 0 2.5 2M17 5.5a3 3 0 0 1 3 3v1.2a3 3 0 0 1 2 2.8v1a3 3 0 0 1-2 2.8v1.4a3 3 0 0 1-3 3h-.5v2a2 2 0 0 1-2.5 2M14 4v18" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path>
+    </symbol>
+    <symbol id="w-bulb" viewBox="0 0 28 28">
+      <path d="M14 3.5a6.5 6.5 0 0 0-4 11.6c.8.6 1.2 1.5 1.2 2.4v.5h5.6v-.5c0-.9.4-1.8 1.2-2.4A6.5 6.5 0 0 0 14 3.5zM11 19.5h6M11.5 22h5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path>
+    </symbol>
+    <symbol id="w-moon" viewBox="0 0 28 28">
+      <path d="M21 17.5A8.5 8.5 0 0 1 10.5 7c0-.7.1-1.4.2-2A9 9 0 1 0 23 19.3c-.6.1-1.3.2-2 .2z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path>
+    </symbol>
+    <symbol id="w-sun" viewBox="0 0 28 28">
+      <circle cx="14" cy="14" r="4.5" fill="none" stroke="currentColor" stroke-width="1.4"></circle>
+      <path d="M14 2.5v3M14 22.5v3M2.5 14h3M22.5 14h3M5.8 5.8l2.1 2.1M20.1 20.1l2.1 2.1M5.8 22.2l2.1-2.1M20.1 7.9l2.1-2.1" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"></path>
+    </symbol>
+    <symbol id="w-leaf" viewBox="0 0 28 28">
+      <path d="M22 4c-9 0-15 5-15 12a8 8 0 0 0 8 8c7 0 12-6 12-15-2 0-3 0-5-1M6 24l9-9" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path>
+    </symbol>
+    <symbol id="w-glass" viewBox="0 0 28 28">
+      <path d="M6.5 4.5h15l-7 9-7-9zM14.5 13.5v8M10 22h9" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path>
+    </symbol>
+    <symbol id="w-globe" viewBox="0 0 28 28">
+      <circle cx="14" cy="14" r="10" fill="none" stroke="currentColor" stroke-width="1.4"></circle>
+      <path d="M4 14h20M14 4c3 3 4.5 6 4.5 10S17 21 14 24M14 4c-3 3-4.5 6-4.5 10S11 21 14 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"></path>
+    </symbol>
+    <symbol id="w-bolt" viewBox="0 0 28 28">
+      <path d="M16 3l-9 13h6l-2 9 9-13h-6l2-9z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path>
+    </symbol>
+    <symbol id="w-star" viewBox="0 0 28 28">
+      <path d="M14 4l2.6 7L24 13l-6 4.5L20 25l-6-4.5L8 25l2-7.5L4 13l7.4-2L14 4z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path>
+    </symbol>
+    <symbol id="w-spark" viewBox="0 0 28 28">
+      <path d="M14 4l1.6 7.4L23 14l-7.4 1.6L14 23l-1.6-7.4L5 14l7.4-1.6L14 4z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path>
+    </symbol>
+  </defs>
+
+  
+  <g color="#c45d3a">
+    <use href="#w-brain" x="14" y="20" width="28" height="28"></use>
+    <use href="#w-bulb" x="80" y="58" width="28" height="28"></use>
+    <use href="#w-bolt" x="170" y="12" width="28" height="28"></use>
+    <use href="#w-star" x="240" y="46" width="28" height="28"></use>
+    <use href="#w-spark" x="318" y="20" width="28" height="28"></use>
+    <use href="#w-moon" x="362" y="62" width="28" height="28"></use>
+
+    <use href="#w-sun" x="32" y="98" width="28" height="28"></use>
+    <use href="#w-leaf" x="108" y="118" width="28" height="28"></use>
+    <use href="#w-globe" x="190" y="100" width="28" height="28"></use>
+    <use href="#w-glass" x="270" y="130" width="28" height="28"></use>
+    <use href="#w-brain" x="342" y="110" width="28" height="28"></use>
+
+    <use href="#w-bulb" x="8" y="180" width="28" height="28"></use>
+    <use href="#w-bolt" x="74" y="208" width="28" height="28"></use>
+    <use href="#w-moon" x="158" y="190" width="28" height="28"></use>
+    <use href="#w-star" x="230" y="220" width="28" height="28"></use>
+    <use href="#w-spark" x="316" y="200" width="28" height="28"></use>
+
+    <use href="#w-leaf" x="20" y="268" width="28" height="28"></use>
+    <use href="#w-globe" x="98" y="290" width="28" height="28"></use>
+    <use href="#w-glass" x="180" y="272" width="28" height="28"></use>
+    <use href="#w-brain" x="262" y="298" width="28" height="28"></use>
+    <use href="#w-bulb" x="340" y="280" width="28" height="28"></use>
+
+    <use href="#w-sun" x="58" y="350" width="28" height="28"></use>
+    <use href="#w-bolt" x="142" y="362" width="28" height="28"></use>
+    <use href="#w-leaf" x="216" y="340" width="28" height="28"></use>
+    <use href="#w-spark" x="298" y="360" width="28" height="28"></use>
+    <use href="#w-moon" x="368" y="346" width="28" height="28"></use>
+  </g>
+</svg>
